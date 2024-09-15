@@ -26,7 +26,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
 
    ```
-   git clone https://github.com/Galkurta/Major-BOT.git
+   git clone https://github.com/ahmedjabbar4/Major-BOT.git
    cd Major-BOT
    ```
 
